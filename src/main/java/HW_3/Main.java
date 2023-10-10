@@ -23,3 +23,4 @@ public class Main {
         return x > 25 && x < 100;
     }
 }
+

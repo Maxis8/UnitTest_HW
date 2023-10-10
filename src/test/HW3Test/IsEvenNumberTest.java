@@ -18,3 +18,4 @@ public class IsEvenNumberTest {
         assertFalse(isEvenNumber((oddNumber)));
     }
 }
+

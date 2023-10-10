@@ -29,3 +29,4 @@ public class IsNumberInIntervalTest {
         assertTrue(isNumberInInterval(50));
     }
 }
+
